@@ -181,5 +181,6 @@ int main() {
     cout << "Keep practicing your typing skills!" << endl;
 
     return 0;
+    
 }
 
